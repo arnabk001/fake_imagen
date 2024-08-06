@@ -1,0 +1,76 @@
+# Ignore the submodule
+segment-anything-2/
+
+# Ignore large files
+*.pt
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+*.orig
+
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+Desktop.ini
+
+# Ignore IDE/editor specific files
+.vscode/
+.idea/
+
+# Ignore build directories
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Ignore coverage reports
+coverage/
+*.cover
+*.coverage
+*.cov
+*.gcov
+
+# Ignore large data files
+*.tsv
+*.data
+*.dat
+
+# Ignore other unnecessary files
+*.tar
+*.tar.gz
+*.zip
+*.rar
+*.7z
+*.bak
+*.backup
+*.old
+*.tmp
+*.temp
+*.cache
+*.log
+*.bin
+*.lock
+*.swp
+*.swo
+*.bak
+*.old
+*.log
+
